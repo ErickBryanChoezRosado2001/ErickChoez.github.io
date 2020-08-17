@@ -8,8 +8,6 @@ author: Erick Choez
     <li>Seguido de una peque&ntilde;a informaci&oacute;n acerca &nbsp;de m&iacute;.</li>
     <li>A s&iacute; mismo una informaci&oacute;n de mi educaci&oacute;n.</li>
 </ul>
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 ![_config.yml]({{ site.baseurl }}/images/DefinirObjetivosYMetricasParaUnBlogPersonal.jpg)
 
 
