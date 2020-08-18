@@ -7,7 +7,6 @@ permalink: /Acerca de/
 Some information about you!
 
 ### Información adicional:
-
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";'><br></p>
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";'>Con respecto a mi carrera de ingenier&iacute;a en software,</p>
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";'>Actualmente me encuentro estudiando para ser un ingeniero en software, por qu&eacute; escog&iacute; esta carrera es por esa misma pasi&oacute;n, s&eacute; que la carrera en la que me encuentro no necesariamente es de juegos, bueno eso cre&iacute;a, hasta que me informe mejor, y aborda muchos temas que me interesaron mucho.</p>
