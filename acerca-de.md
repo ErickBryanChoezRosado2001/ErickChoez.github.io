@@ -13,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 ![_config.yml]({{ site.baseurl }}/images/software.jpg)
 ### Contactame mediante el siguiente correo:
 
-[erick.choezr@ug.edu.ec](mailto:email@domain.ec)
+[erick.choezr@ug.edu.ec](mailto:email@domain.edu.ec)
