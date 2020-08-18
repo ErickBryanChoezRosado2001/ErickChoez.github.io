@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerca de
+title: Acerca del Autor
 permalink: /Acerca de/
 ---
 
@@ -10,6 +10,6 @@ Some information about you!
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Contactame mediante el siguiente correo:
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.ec](mailto:erick.choezr@ug.edu.ec)
