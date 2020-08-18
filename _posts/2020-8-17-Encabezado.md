@@ -1,6 +1,6 @@
 ---
 layout: post
-title:'BIENVENIDOS, A MI BLOG PERSONAL'
+title: 'BIENVENIDOS, A MI BLOG PERSONAL'
 author: Erick Choez
 ---
 <ul style="list-style-type: disc;">
