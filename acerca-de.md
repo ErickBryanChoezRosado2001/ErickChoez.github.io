@@ -6,10 +6,10 @@ permalink: /Acerca de/
 
 Some information about you!
 
-### More Information
+### Informacion adicional:
 
 A place to include any other types of information that you'd like to include about yourself.
 
 ### Contactame mediante el siguiente correo:
 
-[email@domain.ec](mailto:erick.choezr@ug.edu.ec)
+[erick.choezr@ug.edu.ec](mailto:email@domain.ec)
