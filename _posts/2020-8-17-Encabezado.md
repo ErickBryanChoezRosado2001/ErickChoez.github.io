@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";text-align:center;'><span style="font-size: 30px;">BIENVENIDOS, A MI BLOG PERSONAL</span></p>
+title: '<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";text-align:center;'><span style="font-size: 30px;">BIENVENIDOS, A MI BLOG PERSONAL</span></p>'
 author: Erick Choez
 ---
 <ul style="list-style-type: disc;">
