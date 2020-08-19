@@ -15,7 +15,8 @@ permalink: /Educación/
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";'><span style="font-size:16px;line-height:115%;">A partir de 6&ordm; de b&aacute;sica comenc&eacute; en una nueva escuela, cerca de donde viv&iacute;a, no pase mucho tiempo en esta escuela porque al a&ntilde;o me cambiaron.</span></p>
 
 ### Unidad Educativa Del Milenio “Dr. Alfredo Raul Vera Vera”
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";'><span style="font-size:16px;line-height:115%;">Y finalmente llegue en 7&ordm; de b&aacute;sica a este colegio, y termine hasta graduarme en &eacute;l, me grad&uacute;e de bachiller en ciencias, el an o pasado a principios de febrero.</span></p>
-
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";'><span style="font-size:16px;line-height:115%;">Y finalmente llegue en 7&ordm; de b&aacute;sica a este colegio, y termine hasta graduarme en &eacute;l, me grad&uacute;e de bachiller en ciencias, el a&ntilde;o pasado a principios de febrero.</span></p>
 
 ![_config.yml]({{ site.baseurl }}/images/Graduacion.jpg)
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri","sans-serif";'><span style="font-size:16px;line-height:115%;">Actualmente me encuentro estudiando la carrera de Ingenier&iacute;a de Software en la Universidad de Guayaquil.</span></p>
